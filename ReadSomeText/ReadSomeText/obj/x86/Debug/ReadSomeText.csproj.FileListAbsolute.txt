@@ -1,0 +1,5 @@
+\\h0316sfs05\home$\students\9308038\my documents\visual studio 2010\Projects\ReadSomeText\ReadSomeText\bin\Debug\ReadSomeText.exe
+\\h0316sfs05\home$\students\9308038\my documents\visual studio 2010\Projects\ReadSomeText\ReadSomeText\bin\Debug\ReadSomeText.pdb
+\\h0316sfs05\home$\students\9308038\my documents\visual studio 2010\Projects\ReadSomeText\ReadSomeText\obj\x86\Debug\ReadSomeText.exe
+\\h0316sfs05\home$\students\9308038\my documents\visual studio 2010\Projects\ReadSomeText\ReadSomeText\obj\x86\Debug\ReadSomeText.pdb
+\\H0316SFS05\Home$\Students\9308038\My Documents\Visual Studio 2010\Projects\ReadSomeText\ReadSomeText\obj\x86\Debug\ReadSomeText.csprojResolveAssemblyReference.cache

@@ -1,0 +1,7 @@
+\\h0316sfs05\home$\students\9308038\my documents\visual studio 2010\Projects\ReadEnvironment\ReadEnvironment\bin\Debug\ReadEnvironment.exe
+\\h0316sfs05\home$\students\9308038\my documents\visual studio 2010\Projects\ReadEnvironment\ReadEnvironment\bin\Debug\ReadEnvironment.pdb
+\\h0316sfs05\home$\students\9308038\my documents\visual studio 2010\Projects\ReadEnvironment\ReadEnvironment\obj\x86\Debug\ReadEnvironment.Form1.resources
+\\h0316sfs05\home$\students\9308038\my documents\visual studio 2010\Projects\ReadEnvironment\ReadEnvironment\obj\x86\Debug\ReadEnvironment.Properties.Resources.resources
+\\h0316sfs05\home$\students\9308038\my documents\visual studio 2010\Projects\ReadEnvironment\ReadEnvironment\obj\x86\Debug\ReadEnvironment.csproj.GenerateResource.Cache
+\\h0316sfs05\home$\students\9308038\my documents\visual studio 2010\Projects\ReadEnvironment\ReadEnvironment\obj\x86\Debug\ReadEnvironment.exe
+\\h0316sfs05\home$\students\9308038\my documents\visual studio 2010\Projects\ReadEnvironment\ReadEnvironment\obj\x86\Debug\ReadEnvironment.pdb
