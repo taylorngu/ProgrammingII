@@ -1,0 +1,3 @@
+\\h0316sfs05\home$\students\9308038\my documents\visual studio 2010\Projects\ContactsManager\ContactsManager\obj\x86\Debug\ContactsManager.Form1.resources
+\\h0316sfs05\home$\students\9308038\my documents\visual studio 2010\Projects\ContactsManager\ContactsManager\obj\x86\Debug\ContactsManager.Properties.Resources.resources
+\\h0316sfs05\home$\students\9308038\my documents\visual studio 2010\Projects\ContactsManager\ContactsManager\obj\x86\Debug\ContactsManager.csproj.GenerateResource.Cache
