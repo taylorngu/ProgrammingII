@@ -1,0 +1,4 @@
+\\h0316sfs05\home$\students\9308038\my documents\visual studio 2010\Projects\InchesToYards\InchesToYards\bin\Debug\InchesToYards.exe
+\\h0316sfs05\home$\students\9308038\my documents\visual studio 2010\Projects\InchesToYards\InchesToYards\bin\Debug\InchesToYards.pdb
+\\h0316sfs05\home$\students\9308038\my documents\visual studio 2010\Projects\InchesToYards\InchesToYards\obj\x86\Debug\InchesToYards.exe
+\\h0316sfs05\home$\students\9308038\my documents\visual studio 2010\Projects\InchesToYards\InchesToYards\obj\x86\Debug\InchesToYards.pdb

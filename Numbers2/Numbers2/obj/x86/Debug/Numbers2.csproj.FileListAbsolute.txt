@@ -1,0 +1,4 @@
+\\h0316sfs05\home$\students\9308038\my documents\visual studio 2010\Projects\Numbers2\Numbers2\bin\Debug\Numbers2.exe
+\\h0316sfs05\home$\students\9308038\my documents\visual studio 2010\Projects\Numbers2\Numbers2\bin\Debug\Numbers2.pdb
+\\h0316sfs05\home$\students\9308038\my documents\visual studio 2010\Projects\Numbers2\Numbers2\obj\x86\Debug\Numbers2.exe
+\\h0316sfs05\home$\students\9308038\my documents\visual studio 2010\Projects\Numbers2\Numbers2\obj\x86\Debug\Numbers2.pdb
