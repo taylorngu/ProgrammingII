@@ -1,0 +1,4 @@
+\\h0316sfs05\home$\students\9308038\my documents\visual studio 2010\Projects\AddColors\AddColors\bin\Debug\AddColors.exe
+\\h0316sfs05\home$\students\9308038\my documents\visual studio 2010\Projects\AddColors\AddColors\bin\Debug\AddColors.pdb
+\\h0316sfs05\home$\students\9308038\my documents\visual studio 2010\Projects\AddColors\AddColors\obj\x86\Debug\AddColors.exe
+\\h0316sfs05\home$\students\9308038\my documents\visual studio 2010\Projects\AddColors\AddColors\obj\x86\Debug\AddColors.pdb

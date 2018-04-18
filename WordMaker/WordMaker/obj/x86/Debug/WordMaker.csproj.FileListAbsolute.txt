@@ -1,0 +1,7 @@
+\\h0316sfs05\home$\students\9308038\my documents\visual studio 2010\Projects\WordMaker\WordMaker\bin\Debug\WordMaker.exe
+\\h0316sfs05\home$\students\9308038\my documents\visual studio 2010\Projects\WordMaker\WordMaker\bin\Debug\WordMaker.pdb
+\\h0316sfs05\home$\students\9308038\my documents\visual studio 2010\Projects\WordMaker\WordMaker\obj\x86\Debug\WordMaker.Form1.resources
+\\h0316sfs05\home$\students\9308038\my documents\visual studio 2010\Projects\WordMaker\WordMaker\obj\x86\Debug\WordMaker.Properties.Resources.resources
+\\h0316sfs05\home$\students\9308038\my documents\visual studio 2010\Projects\WordMaker\WordMaker\obj\x86\Debug\WordMaker.csproj.GenerateResource.Cache
+\\h0316sfs05\home$\students\9308038\my documents\visual studio 2010\Projects\WordMaker\WordMaker\obj\x86\Debug\WordMaker.exe
+\\h0316sfs05\home$\students\9308038\my documents\visual studio 2010\Projects\WordMaker\WordMaker\obj\x86\Debug\WordMaker.pdb
