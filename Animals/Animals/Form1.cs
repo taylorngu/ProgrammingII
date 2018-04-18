@@ -22,9 +22,6 @@ namespace Animals
 
         }
 
-
-
-
         private void btnCreate_Click(object sender, EventArgs e)
         {
             try
