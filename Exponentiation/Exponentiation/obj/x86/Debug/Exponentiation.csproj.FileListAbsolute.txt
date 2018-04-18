@@ -1,0 +1,4 @@
+\\h0316sfs05\home$\students\9308038\my documents\visual studio 2010\Projects\Exponentiation\Exponentiation\bin\Debug\Exponentiation.exe
+\\h0316sfs05\home$\students\9308038\my documents\visual studio 2010\Projects\Exponentiation\Exponentiation\bin\Debug\Exponentiation.pdb
+\\h0316sfs05\home$\students\9308038\my documents\visual studio 2010\Projects\Exponentiation\Exponentiation\obj\x86\Debug\Exponentiation.exe
+\\h0316sfs05\home$\students\9308038\my documents\visual studio 2010\Projects\Exponentiation\Exponentiation\obj\x86\Debug\Exponentiation.pdb

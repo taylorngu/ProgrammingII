@@ -1,0 +1,6 @@
+\\h0316sfs05\home$\students\9308038\my documents\visual studio 2010\Projects\ConsoleColorChanger1\ConsoleColorChanger1\bin\Debug\ConsoleColorChanger1.exe
+\\h0316sfs05\home$\students\9308038\my documents\visual studio 2010\Projects\ConsoleColorChanger1\ConsoleColorChanger1\bin\Debug\ConsoleColorChanger1.pdb
+\\h0316sfs05\home$\students\9308038\my documents\visual studio 2010\Projects\ConsoleColorChanger1\ConsoleColorChanger1\obj\x86\Debug\ConsoleColorChanger1.exe
+\\h0316sfs05\home$\students\9308038\my documents\visual studio 2010\Projects\ConsoleColorChanger1\ConsoleColorChanger1\obj\x86\Debug\ConsoleColorChanger1.pdb
+H:\My Documents\Visual Studio 2010\Projects\ConsoleColorChanger1\ConsoleColorChanger1\obj\x86\Debug\ConsoleColorChanger1.exe
+H:\My Documents\Visual Studio 2010\Projects\ConsoleColorChanger1\ConsoleColorChanger1\obj\x86\Debug\ConsoleColorChanger1.pdb
