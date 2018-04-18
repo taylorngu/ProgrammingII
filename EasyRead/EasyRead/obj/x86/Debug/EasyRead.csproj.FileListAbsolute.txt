@@ -1,0 +1,5 @@
+\\h0316sfs05\home$\students\9308038\my documents\visual studio 2010\Projects\EasyRead\EasyRead\bin\Debug\EasyRead.exe
+\\h0316sfs05\home$\students\9308038\my documents\visual studio 2010\Projects\EasyRead\EasyRead\bin\Debug\EasyRead.pdb
+\\h0316sfs05\home$\students\9308038\my documents\visual studio 2010\Projects\EasyRead\EasyRead\obj\x86\Debug\EasyRead.exe
+\\h0316sfs05\home$\students\9308038\my documents\visual studio 2010\Projects\EasyRead\EasyRead\obj\x86\Debug\EasyRead.pdb
+\\H0316SFS05\Home$\Students\9308038\My Documents\Visual Studio 2010\Projects\EasyRead\EasyRead\obj\x86\Debug\EasyRead.csprojResolveAssemblyReference.cache
