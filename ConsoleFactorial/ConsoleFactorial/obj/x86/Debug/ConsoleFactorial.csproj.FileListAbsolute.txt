@@ -1,0 +1,4 @@
+\\h0316sfs05\home$\students\9308038\my documents\visual studio 2010\Projects\ConsoleFactorial\ConsoleFactorial\bin\Debug\ConsoleFactorial.exe
+\\h0316sfs05\home$\students\9308038\my documents\visual studio 2010\Projects\ConsoleFactorial\ConsoleFactorial\bin\Debug\ConsoleFactorial.pdb
+\\h0316sfs05\home$\students\9308038\my documents\visual studio 2010\Projects\ConsoleFactorial\ConsoleFactorial\obj\x86\Debug\ConsoleFactorial.exe
+\\h0316sfs05\home$\students\9308038\my documents\visual studio 2010\Projects\ConsoleFactorial\ConsoleFactorial\obj\x86\Debug\ConsoleFactorial.pdb

@@ -1,0 +1,6 @@
+\\h0316sfs05\home$\students\9308038\my documents\visual studio 2010\Projects\FunRecurSum\FunRecurSum\bin\Debug\FunRecurSum.exe
+\\h0316sfs05\home$\students\9308038\my documents\visual studio 2010\Projects\FunRecurSum\FunRecurSum\bin\Debug\FunRecurSum.pdb
+\\h0316sfs05\home$\students\9308038\my documents\visual studio 2010\Projects\FunRecurSum\FunRecurSum\obj\x86\Debug\FunRecurSum.exe
+\\h0316sfs05\home$\students\9308038\my documents\visual studio 2010\Projects\FunRecurSum\FunRecurSum\obj\x86\Debug\FunRecurSum.pdb
+H:\My Documents\Visual Studio 2010\Projects\FunRecurSum\FunRecurSum\obj\x86\Debug\FunRecurSum.exe
+H:\My Documents\Visual Studio 2010\Projects\FunRecurSum\FunRecurSum\obj\x86\Debug\FunRecurSum.pdb
