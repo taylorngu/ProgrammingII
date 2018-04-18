@@ -1,0 +1,7 @@
+\\h0316sfs05\home$\students\9308038\my documents\visual studio 2010\Projects\SortNumbers\SortNumbers\bin\Debug\SortNumbers.exe
+\\h0316sfs05\home$\students\9308038\my documents\visual studio 2010\Projects\SortNumbers\SortNumbers\bin\Debug\SortNumbers.pdb
+\\h0316sfs05\home$\students\9308038\my documents\visual studio 2010\Projects\SortNumbers\SortNumbers\obj\x86\Debug\SortNumbers.Form1.resources
+\\h0316sfs05\home$\students\9308038\my documents\visual studio 2010\Projects\SortNumbers\SortNumbers\obj\x86\Debug\SortNumbers.Properties.Resources.resources
+\\h0316sfs05\home$\students\9308038\my documents\visual studio 2010\Projects\SortNumbers\SortNumbers\obj\x86\Debug\SortNumbers.csproj.GenerateResource.Cache
+\\h0316sfs05\home$\students\9308038\my documents\visual studio 2010\Projects\SortNumbers\SortNumbers\obj\x86\Debug\SortNumbers.exe
+\\h0316sfs05\home$\students\9308038\my documents\visual studio 2010\Projects\SortNumbers\SortNumbers\obj\x86\Debug\SortNumbers.pdb
