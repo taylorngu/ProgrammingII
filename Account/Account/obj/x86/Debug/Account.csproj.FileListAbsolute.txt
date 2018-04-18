@@ -1,0 +1,7 @@
+\\h0316sfs05\home$\students\9308038\my documents\visual studio 2010\Projects\Account\Account\obj\x86\Debug\Account.Form1.resources
+\\h0316sfs05\home$\students\9308038\my documents\visual studio 2010\Projects\Account\Account\obj\x86\Debug\Account.Properties.Resources.resources
+\\h0316sfs05\home$\students\9308038\my documents\visual studio 2010\Projects\Account\Account\obj\x86\Debug\Account.csproj.GenerateResource.Cache
+\\h0316sfs05\home$\students\9308038\my documents\visual studio 2010\Projects\Account\Account\bin\Debug\Account.exe
+\\h0316sfs05\home$\students\9308038\my documents\visual studio 2010\Projects\Account\Account\bin\Debug\Account.pdb
+\\h0316sfs05\home$\students\9308038\my documents\visual studio 2010\Projects\Account\Account\obj\x86\Debug\Account.exe
+\\h0316sfs05\home$\students\9308038\my documents\visual studio 2010\Projects\Account\Account\obj\x86\Debug\Account.pdb

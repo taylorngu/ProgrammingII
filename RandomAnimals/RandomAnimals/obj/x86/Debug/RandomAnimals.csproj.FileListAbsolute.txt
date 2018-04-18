@@ -1,0 +1,5 @@
+\\h0316sfs05\home$\students\9308038\my documents\visual studio 2010\Projects\RandomAnimals\RandomAnimals\bin\Debug\RandomAnimals.exe
+\\h0316sfs05\home$\students\9308038\my documents\visual studio 2010\Projects\RandomAnimals\RandomAnimals\bin\Debug\RandomAnimals.pdb
+\\h0316sfs05\home$\students\9308038\my documents\visual studio 2010\Projects\RandomAnimals\RandomAnimals\obj\x86\Debug\RandomAnimals.exe
+\\h0316sfs05\home$\students\9308038\my documents\visual studio 2010\Projects\RandomAnimals\RandomAnimals\obj\x86\Debug\RandomAnimals.pdb
+\\h0316sfs05\home$\students\9308038\my documents\visual studio 2010\Projects\RandomAnimals\RandomAnimals\obj\x86\Debug\RandomAnimals.csprojResolveAssemblyReference.cache
