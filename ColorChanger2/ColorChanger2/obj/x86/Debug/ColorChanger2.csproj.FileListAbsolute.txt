@@ -1,0 +1,7 @@
+\\h0316sfs05\home$\students\9308038\my documents\visual studio 2010\Projects\ColorChanger2\ColorChanger2\bin\Debug\ColorChanger2.exe
+\\h0316sfs05\home$\students\9308038\my documents\visual studio 2010\Projects\ColorChanger2\ColorChanger2\bin\Debug\ColorChanger2.pdb
+\\h0316sfs05\home$\students\9308038\my documents\visual studio 2010\Projects\ColorChanger2\ColorChanger2\obj\x86\Debug\ColorChanger2.Form1.resources
+\\h0316sfs05\home$\students\9308038\my documents\visual studio 2010\Projects\ColorChanger2\ColorChanger2\obj\x86\Debug\ColorChanger2.Properties.Resources.resources
+\\h0316sfs05\home$\students\9308038\my documents\visual studio 2010\Projects\ColorChanger2\ColorChanger2\obj\x86\Debug\ColorChanger2.csproj.GenerateResource.Cache
+\\h0316sfs05\home$\students\9308038\my documents\visual studio 2010\Projects\ColorChanger2\ColorChanger2\obj\x86\Debug\ColorChanger2.exe
+\\h0316sfs05\home$\students\9308038\my documents\visual studio 2010\Projects\ColorChanger2\ColorChanger2\obj\x86\Debug\ColorChanger2.pdb
