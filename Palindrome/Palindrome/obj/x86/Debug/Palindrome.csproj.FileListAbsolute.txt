@@ -1,0 +1,4 @@
+H:\My Documents\Visual Studio 2010\Projects\Palindrome\Palindrome\bin\Debug\Palindrome.exe
+H:\My Documents\Visual Studio 2010\Projects\Palindrome\Palindrome\bin\Debug\Palindrome.pdb
+H:\My Documents\Visual Studio 2010\Projects\Palindrome\Palindrome\obj\x86\Debug\Palindrome.exe
+H:\My Documents\Visual Studio 2010\Projects\Palindrome\Palindrome\obj\x86\Debug\Palindrome.pdb
