@@ -1,0 +1,4 @@
+\\h0316sfs05\home$\students\9308038\my documents\visual studio 2010\Projects\CountIntegers\CountIntegers\bin\Debug\CountIntegers.exe
+\\h0316sfs05\home$\students\9308038\my documents\visual studio 2010\Projects\CountIntegers\CountIntegers\bin\Debug\CountIntegers.pdb
+\\h0316sfs05\home$\students\9308038\my documents\visual studio 2010\Projects\CountIntegers\CountIntegers\obj\x86\Debug\CountIntegers.exe
+\\h0316sfs05\home$\students\9308038\my documents\visual studio 2010\Projects\CountIntegers\CountIntegers\obj\x86\Debug\CountIntegers.pdb
