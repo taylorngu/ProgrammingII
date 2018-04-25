@@ -1,0 +1,5 @@
+\\h0316sfs05\home$\students\9308038\my documents\visual studio 2010\Projects\Gettysburg\Gettysburg\bin\Debug\Gettysburg.exe
+\\h0316sfs05\home$\students\9308038\my documents\visual studio 2010\Projects\Gettysburg\Gettysburg\bin\Debug\Gettysburg.pdb
+\\h0316sfs05\home$\students\9308038\my documents\visual studio 2010\Projects\Gettysburg\Gettysburg\obj\x86\Debug\Gettysburg.exe
+\\h0316sfs05\home$\students\9308038\my documents\visual studio 2010\Projects\Gettysburg\Gettysburg\obj\x86\Debug\Gettysburg.pdb
+\\H0316SFS05\Home$\Students\9308038\My Documents\Visual Studio 2010\Projects\Gettysburg\Gettysburg\obj\x86\Debug\Gettysburg.csprojResolveAssemblyReference.cache

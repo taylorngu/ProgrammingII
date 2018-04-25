@@ -1,0 +1,4 @@
+\\h0316sfs05\home$\students\9308038\my documents\visual studio 2010\Projects\CityFinder\CityFinder\bin\Debug\CityFinder.exe
+\\h0316sfs05\home$\students\9308038\my documents\visual studio 2010\Projects\CityFinder\CityFinder\bin\Debug\CityFinder.pdb
+\\h0316sfs05\home$\students\9308038\my documents\visual studio 2010\Projects\CityFinder\CityFinder\obj\x86\Debug\CityFinder.exe
+\\h0316sfs05\home$\students\9308038\my documents\visual studio 2010\Projects\CityFinder\CityFinder\obj\x86\Debug\CityFinder.pdb
