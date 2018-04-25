@@ -12,8 +12,7 @@ namespace CityFinder
             string[] cities = new string[] {"Rome","London", "Nairobi", "Zurich", "Los Angeles", "New Delhi", "Amsterdam", "Abu Dhabi", "Paris", "Anaheim"};
 
             var cityMatch = from s in cities
-                            where s.ToLower().StartsWith("a")
-                            where s.ToLower().EndsWith("m")
+                            where s.ToLower().StartsWith("a") && s.ToLower().EndsWith("m")
                             select s;
 
             Console.WriteLine("The city names beginning with 'A' and ending with 'M' are:");
