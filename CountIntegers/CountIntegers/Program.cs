@@ -14,7 +14,6 @@ namespace CountIntegers
 
             int[] numbers = Array.ConvertAll(rawNumbers, int.Parse);
             
-
             var match = from i in numbers
                         orderby i 
                         group i by i into x
