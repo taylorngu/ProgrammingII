@@ -18,13 +18,12 @@ namespace CountIntegers
             var match = from i in numbers
                         orderby i 
                         group i by i into x
-                        let count = x.Count()
-                        select count;
+                        select x;
 
             Console.WriteLine();
-            foreach (int i in match)
+            foreach (var i in match)
             {
-                Console.WriteLine(String.Format("Key {0} occured {1} times.", key++, i));
+                Console.WriteLine(String.Format("Key {0} occured {1} times.", x.Key, x.Count()));
             }
 
         }
