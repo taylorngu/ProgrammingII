@@ -1,0 +1,4 @@
+\\h0316sfs05\home$\students\9308038\my documents\visual studio 2010\Projects\PalindromeLINQ\PalindromeLINQ\bin\Debug\PalindromeLINQ.exe
+\\h0316sfs05\home$\students\9308038\my documents\visual studio 2010\Projects\PalindromeLINQ\PalindromeLINQ\bin\Debug\PalindromeLINQ.pdb
+\\h0316sfs05\home$\students\9308038\my documents\visual studio 2010\Projects\PalindromeLINQ\PalindromeLINQ\obj\x86\Debug\PalindromeLINQ.exe
+\\h0316sfs05\home$\students\9308038\my documents\visual studio 2010\Projects\PalindromeLINQ\PalindromeLINQ\obj\x86\Debug\PalindromeLINQ.pdb
