@@ -6,3 +6,6 @@
 \\h0316sfs05\home$\students\9308038\my documents\visual studio 2010\Projects\MuseumManager\MuseumManager\obj\x86\Debug\MuseumManager.pdb
 \\h0316sfs05\home$\students\9308038\my documents\visual studio 2010\Projects\MuseumManager\MuseumManager\obj\x86\Debug\MuseumManager.Form2.resources
 \\h0316sfs05\home$\students\9308038\my documents\visual studio 2010\Projects\MuseumManager\MuseumManager\obj\x86\Debug\MuseumManager.Form1.resources
+\\H0316SFS05\Home$\Students\9308038\My Documents\Visual Studio 2010\Projects\MuseumManager\MuseumManager\obj\x86\Debug\MuseumManager.csprojResolveAssemblyReference.cache
+H:\My Documents\Visual Studio 2010\Projects\MuseumManager\MuseumManager\obj\x86\Debug\MuseumManager.exe
+H:\My Documents\Visual Studio 2010\Projects\MuseumManager\MuseumManager\obj\x86\Debug\MuseumManager.pdb

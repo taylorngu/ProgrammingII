@@ -17,6 +17,13 @@ namespace MuseumManager
         {
             artList = art; 
             InitializeComponent();
+
+            var pieces = from a in artList
+                         orderby a.year, a.artistname
+                         select a;
+
+            artList = pieces.ToList(); 
+
         }
 
         public void displayArt(int position)
