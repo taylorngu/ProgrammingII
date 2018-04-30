@@ -16,8 +16,6 @@ namespace TeamMaker
                         let index = x % (names.Count() / 3)
                         group names[x] by index into groups
                         select groups;
-                       
-
 
             foreach (var v in teams) 
             {
